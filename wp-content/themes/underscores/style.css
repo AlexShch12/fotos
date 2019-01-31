@@ -837,7 +837,8 @@ object {
 .wp-caption-text {
 	text-align: center;
 	background: #b6b6b6;
-	font-size: 80%;
+	font-size: 120%;
+	font-style: italic;
 }
 
 /*--------------------------------------------------------------
