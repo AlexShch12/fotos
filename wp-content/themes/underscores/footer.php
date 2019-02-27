@@ -18,6 +18,7 @@
 		<div class="container">
 		
 		<div class="site-info">
+				&copy; ТМ Alex, тел. 096-248-31-49 &emsp; &emsp; &emsp; 
 				<?php
 				/* translators: 1: Theme name, 2: Theme author. */
 				printf( esc_html__( 'Тема: %1$s ', 'fotos' ), 'Fotos', ' ' );
