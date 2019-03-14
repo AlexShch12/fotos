@@ -53,7 +53,7 @@ get_header();
 			get_template_part( 'template-parts/content', 'none' );
 
 		endif;
-<?php putRevSlider('', 'homepage'); ?>
+		/*<?php putRevSlider('', 'homepage'); ?> */
 		?>
 
 		</main><!-- #main -->

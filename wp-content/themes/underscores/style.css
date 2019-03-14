@@ -409,7 +409,7 @@ a:hover, a:active {
 	font-size: 24px;
 }
 
-/* гамбургер - Alex*/
+/* гамбургер - Alex */
 .fa-bars {
 	/*color: #777; /*  Цвет иконки */
 	/*top:; text-shadow: 2px 2px 0 #333; /* Резкая тень под иконкой */
@@ -589,6 +589,9 @@ button.menu-toggle:hover {
 .children li {	
 	pointer-events: auto;
 }*/
+.sub-menu {
+	background-color: #ffffff;
+}
 .sub-menu li {
 	margin-left: 5px;
 }
@@ -844,14 +847,6 @@ object {
 /*--------------------------------------------------------------
 ## Galleries
 --------------------------------------------------------------*/
-/*------- к рев-слайдеру gal-foto -----*/
-.tp-caption{
-	box-shadow: 0px 0px 0px 5px #888, 0px 0px 0px 7px #ccc;
-}
-.tp-caption:hover{
-	box-shadow: 0px 0px 0px 5px #3366ff;
-}
-/*------- к рев-слайдеру end -----*/
 
 .gallery {
 	margin-bottom: 1.5em;
